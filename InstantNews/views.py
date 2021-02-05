@@ -44,8 +44,8 @@ lon=str(g.latlng[1])
 city=str(g[0])
 city=city[1:-3]+"India"
 
-api_key = "96d2e493c472b35ec2a8976bdb6d83bd"
-base_url = "http://api.openweathermap.org/data/2.5/weather?"
+api_key = "#"
+base_url = "#"
 
 complete_url = base_url + "appid=" + api_key + "&lat=" + lat + "&lon="  + lon
 response = requests.get(complete_url) 
