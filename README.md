@@ -1,0 +1,2 @@
+# News_Aggregator
+News aggregator application is a type of content aggregator application which allows users to view news and updates from various sources at one convenient location. In this project, I had developed an web application using Django in which the news articles are collected from different news portals and are categorically divided. Text Summarization and Sentiment Analysis is also performed using Natural Language Processing. A popularity-based news recommendation system was also build in order to display the news articles based on twitter users popularity.
