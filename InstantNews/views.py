@@ -1042,10 +1042,10 @@ neg=tuple(zip(neg,neg_link,neg_img,neg_art))
 neu=tuple(zip(neu,neu_link,neu_img,neu_art))
 
 
-consumer_key = 'EOxjQUZBztiTRBQRG4SewSp0l'
-consumer_secret = 'jo4h3qW9DSwIlGpAZ12pP0xHDa0qePPkKX2uswbpa6xrAQoxAj'
-access_token = '1348835624-apgxylphWsCprKdGwG6DFhp0tViFpvet1nEfxua'
-access_secret = '9h7BFke7lfI1hLHMv1Rv2NE69NEXaTwy9DBr11wIWZJxa'
+consumer_key = '#'
+consumer_secret = '#'
+access_token = '#'
+access_secret = '#'
  
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
